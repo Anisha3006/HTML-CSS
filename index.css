@@ -1,0 +1,15 @@
+h1{
+    color:red;
+    background-color:bisque;
+    border-top:10px solid yellow;
+    border-bottom:10px solid yellowgreen;
+    border-left:10px solid pink;
+    border-right:10px solid blue;
+    padding-top: 10px red;
+    padding-bottom: 10px purple;
+    padding-left: 10px green;
+    padding-right: 10px solid purple;   
+    padding: 10px,90px,50px,100;
+    /* top right bottom left
+    Internal CSS Styling*/              
+}
